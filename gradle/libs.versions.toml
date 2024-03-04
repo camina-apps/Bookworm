@@ -1,5 +1,5 @@
 [versions]
-about-libs = "10.10.0"
+about-libs = "11.1.0"
 accompanist = "0.34.0"
 android-gradle-plugin = "8.1.3"
 android-test = "1.5.0"
